@@ -13,7 +13,7 @@
                     <div class="col-md-8">
                         <h6 class="page-title">Dashboard</h6>
                         <ol class="breadcrumb m-0">
-                            <li class="breadcrumb-item active">Welcome To <b>White Pearl</b> Admin Dashboard</li>
+                            <li class="breadcrumb-item active">Welcome To <b>My Project</b> Admin Dashboard</li>
                         </ol>
                     </div>
                 </div>

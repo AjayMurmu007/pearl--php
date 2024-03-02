@@ -50,21 +50,23 @@
                                 <i class="far fa-map"></i>
                             </div>
                             <h5>Office Address</h5>
-                            <p>3rd Floor, Aastha Santosh Plaza, Opp. Urmila Tower Bank More, Dhanbad (Jh) - 826001</p>
+                            <p>3rd Floor, ABC Plaza, Opp. nand Tower
+                                ABC, Dhanbad - 826111</p>
                         </div>
                         <div class="single-cta pb-30 mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
                             <div class="f-cta-icon">
                                 <i class="far fa-phone"></i>
                             </div>
                             <h5>Contact Number</h5>
-                            <p>+91-7667716510, +91-8409748071 <br> 0326-3500 480 / 81</p>
+                            <p>+91-769563510, +91-844218071 <br>
+                                0326-1200 480 </p>
                         </div>
                         <div class="single-cta wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
                             <div class="f-cta-icon">
                                 <i class="far fa-envelope-open"></i>
                             </div>
                             <h5>Message Us</h5>
-                            <p> <a href="#">operationmanager@riseanddine.in</a><br><a href="#">info@riseanddine.in</a></p>
+                            <p> <a href="#">uni@up.in</a><br><a href="#">uni@up.in</a></p>
                         </div>
                     </div>
                 </div>
@@ -76,7 +78,7 @@
                                 Get In Touch
                             </h2>
                         </div>
-                        <form action="<?php echo htmlspecialchars("code/contact_us.action.php");?>" method="post" class="contact-form mt-30">
+                        <form action="<?php echo htmlspecialchars("code/contact_us.action.php"); ?>" method="post" class="contact-form mt-30">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="contact-field p-relative c-name mb-20">
@@ -118,10 +120,10 @@
                         <h3>Approach</h3>
                     </div>
                     <ul class="green mb-20">
-                        <li>&#10070; Dhanbad To Kolkata &nbsp;&nbsp; :  Approx. 272 Km (5 Hrs. Drive)</li>
-                        <li>&#10070; Dhanbad To Ranchi &nbsp;&nbsp;&nbsp; :  Approx. 165 Km (4 Hrs. Drive)</li>
-                        <li>&#10070; Dhanbad To Patna &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  Approx. 325 Km (6 Hrs. Drive)</li>
-                        <li>&#10070; Dhanbad To Gaya &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :  Approx. 218 Km (4 Hrs. Drive)</li>
+                        <li>&#10070; Dhanbad To Kolkata &nbsp;&nbsp; : Approx. 272 Km (5 Hrs. Drive)</li>
+                        <li>&#10070; Dhanbad To Ranchi &nbsp;&nbsp;&nbsp; : Approx. 165 Km (4 Hrs. Drive)</li>
+                        <li>&#10070; Dhanbad To Patna &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Approx. 325 Km (6 Hrs. Drive)</li>
+                        <li>&#10070; Dhanbad To Gaya &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Approx. 218 Km (4 Hrs. Drive)</li>
                     </ul>
                     <div class="about-title second-title pt-10">
                         <h3>Distance</h3>

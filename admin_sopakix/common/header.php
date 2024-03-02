@@ -18,7 +18,7 @@ if (!isset($_SESSION['logged_in'])) //Code for Cannot open direct admin panel
 
 <head>
     <meta charset="utf-8">
-    <title>White Pearl || Admin</title>
+    <title>Admin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description">
     <meta content="Themesbrand" name="author">
@@ -50,6 +50,7 @@ if (!isset($_SESSION['logged_in'])) //Code for Cannot open direct admin panel
                         <a href="index.php" class="logo logo-dark">
                             <span class="logo-sm">
                                 <img src="./assets/images/logo.png" alt="" height="22">
+                                
                             </span>
                             <span class="logo-lg">
                                 <img src="./assets/images/logo.png" alt="" height="17">
@@ -70,7 +71,7 @@ if (!isset($_SESSION['logged_in'])) //Code for Cannot open direct admin panel
                     </button>
                 </div>
 
-                <h1 style="color: blue;font-weight:1000;">White Pearl</h1>
+                <h1 style="color: blue;font-weight:1000;">Project</h1>
 
                 <div class="d-flex">
                     <div class="dropdown d-inline-block">

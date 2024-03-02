@@ -4,7 +4,7 @@
             <div class="col-12">
                 © <script>
                     document.write(new Date().getFullYear())
-                </script> <b>White Pearl</b> <span class="d-none d-sm-inline-block"> - Crafted With <i class="mdi mdi-heart text-danger"></i> By : <a href="http://uinfotechnology.com/" target="_blank" style="color: blue;text-decoration:none;"><b>Uinfo Technology (P) Ltd.</b></a></span>
+                </script> <span class="d-none d-sm-inline-block"> - Crafted  <i class="mdi mdi-heart text-danger"></i> By : <a href="http://ABC.com/" target="_blank" style="color: blue;text-decoration:none;"><b>ABC (P) Ltd.</b></a></span>
             </div>
         </div>
     </div>

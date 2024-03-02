@@ -64,7 +64,7 @@
                             <img src="img/logo/logo.jpg" alt="img">
                         </div>
                         <div class="f-contact">
-                            <p>The best hotel in the city (<b>White</b>), having good ambience and amenities. Providing best in class services for the guest. Lavish rooms with eye catching interior and best to relax and work for professionals.</p>
+                            <p>The best hotel in the city , having good ambience and amenities. Providing best in class services for the guest. Lavish rooms with eye catching interior and best to relax and work for professionals.</p>
                         </div>
                     </div>
                 </div>
@@ -111,9 +111,9 @@
                                 </li>
                                 <li><i class="icon fal fa-envelope"></i>
                                     <span>
-                                        <a href="mailto:operation@riseanddine.in">operation@riseanddine.in</a>
+                                        <a href="mailto:uni@up.in">uni@up.in</a>
                                         <br>
-                                        <a href="mailto:info@rise.in">info@rise.in</a>
+                                        <a href="mailto:info@up.in">info@up.in</a>
                                     </span>
                                 </li>
                                 <li>
@@ -135,7 +135,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6">
-                    <p style="font-size: 16px;"><span>&copy; <?php echo date('Y') ?> <b>White </b></span> - All Rights Reserved || Developed By : <a href="http://ABC.com/" target="_blank"><span style="color: #fff;"><b>ABC (P) Ltd.</b></span> </a></p>
+                    <p style="font-size: 16px;"><span>&copy; <?php echo date('Y') ?></span> - All Rights Reserved || Developed By : <a href="http://ABC.com/" target="_blank"><span style="color: #fff;"><b>ABC (P) Ltd.</b></span> </a></p>
                 </div>
                 <div class="col-lg-6 col-md-6 text-right text-xl-right">
                     <div class="footer-social">

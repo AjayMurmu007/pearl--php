@@ -57,11 +57,11 @@ session_start();
                                 </li>
                                 <li>
                                     <i class="far fa-envelope"></i>
-                                    <span>info@rise.in</span>
+                                    <span>uni@up.in</span>
                                 </li>
                                 <li>
                                     <i class="far fa-phone"></i>
-                                    <strong>+91-7667111510</strong>
+                                    <strong>+91-7685001510</strong>
                                 </li>
                             </ul>
                         </div>
